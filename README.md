@@ -1,2 +1,2 @@
 # python_folium_map
-Map using folium module in python
+WebMap using folium module in python
